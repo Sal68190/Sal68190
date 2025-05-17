@@ -1,3 +1,5 @@
+<img src="github-header-image.png" alt="Github Banner" width="100%" />
+
 # 💫 About Me:
 🔬I'm currently working on a BCI for neuroprosthesis and other ML projects<br>👩🏻‍🎓I have a Master's in Artificial Intelligence 🤖 <br>💊 Hoping to implement AI in the healthcare industry  <br>🛠️ I'm looking to collaborate on Computer vision projects<br>💡 I'm here to learn more about ROS<br>🎡 Fun Fact: I like kittens, Brazilian tapiocas & beaches🏖️ 
 
