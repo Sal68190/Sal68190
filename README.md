@@ -1,5 +1,14 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" alt="👋 Hi, my name is Sal" width="100%"/>
 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h5>
+        👋 Hi, my name is Sushil Magare
+      </h5>
+    </summary>
+  </ul>
+</div>
 
 # 💫 About Me:
 🔬I'm currently working on a BCI for neuroprosthesis and other ML projects<br>👩🏻‍🎓I have a Master's in Artificial Intelligence 🤖 <br>💊 Hoping to implement AI in the healthcare industry  <br>🛠️ I'm looking to collaborate on Computer vision projects<br>💡 I'm here to learn more about ROS<br>🎡 Fun Fact: I like kittens, Brazilian tapiocas & beaches🏖️ 
