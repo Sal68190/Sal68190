@@ -1,4 +1,4 @@
-<img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" alt="👋 Hi, my name is Sal" width="300"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774" alt="👋 Hi, my name is Sal" width="100%"/>
 
 
 # 💫 About Me:
